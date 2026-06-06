@@ -15,6 +15,7 @@ const Navabar = () => {
     };
   }, [showMobileMenu])
 
+
   return (
     <div className='absolute  mt-4 text-2xl top-0 w-full z-10'>
       <div className='container mx-auto flex justify-between items-center py-4 px-6 md:px-20 lg:px-32 bg-transparent'>
